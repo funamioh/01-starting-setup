@@ -1,0 +1,20 @@
+.Expense-date {
+  align-items: center;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  padding: 3px 6px;
+  background-color: aqua;
+}
+
+.expense-date {
+  text-align: center;
+}
+.expense-date__year {
+  text-align: center;
+  font-size: 14px;
+}
+.expense-date__day {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+}
